@@ -98,6 +98,7 @@ const styles = StyleSheet.create({
      marginBottom:5,
      marginTop:5,
      borderRadius:5,
+     
   },
 });
 export default BoasVindas;
